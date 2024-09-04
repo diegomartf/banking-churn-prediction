@@ -53,7 +53,7 @@ O modelo de Árvore de Decisão foi escolhido por sua capacidade de capturar int
 Resultados:
 
 - Acurácia: 85.4%
-- ROC-AUC-SCORES: 85.8%
+- ROC-AUC-SCORE: 85.8%
 - Análise: A Árvore de Decisão apresentou o melhor desempenho entre os três modelos, possivelmente devido à sua capacidade de modelar interações complexas entre as variáveis. No entanto, pode haver risco de overfitting, o que precisa ser considerado.
 
 ## Conclusão
