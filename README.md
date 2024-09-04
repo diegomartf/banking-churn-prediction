@@ -61,3 +61,11 @@ Resultados:
 Após a análise, o modelo de Árvore de Decisão se destacou como o mais eficaz para prever o churn dos clientes bancários neste dataset específico. Embora a Regressão Logística seja uma boa baseline, e o KNN seja fácil de implementar, ambos foram superados pela Árvore de Decisão, que conseguiu capturar melhor a complexidade das relações entre as variáveis.
 
 Esses resultados indicam que, para este dataset, modelos que conseguem lidar com interações não lineares e complexas tendem a performar melhor. Como próximos passos, poderia ser interessante explorar modelos mais avançados como Random Forests ou Gradient Boosting para ver se há melhorias adicionais na performance.
+
+## Contato
+
+Para dúvidas e sugestões, entre em contato:
+
+- **Nome**: Diego Martins Faria
+- **Email**: diegomartinsa15@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/diego-martins-faria/
