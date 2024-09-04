@@ -8,6 +8,7 @@ Os três modelos utilizados são:
 - **K-Nearest Neighbors (KNN)**
 - **Regressão Logística**
 - **Árvore de Decisão**
+
 Cada modelo foi avaliado em termos de acurácia, precisão, recall, e curva ROC-AUC, com o objetivo de identificar qual deles oferece a melhor performance para esse problema específico.
 
 ## Dataset
